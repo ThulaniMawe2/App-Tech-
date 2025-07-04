@@ -1,0 +1,48 @@
+h1{
+    color: green;
+    font-family: sans-serif;
+}
+
+h2{
+    color: gold;
+    font-family: sans-serif;
+}
+h3{
+    color: red;
+    font-family: sans-serif;
+}
+h4{
+    color: green;
+    font-family: sans-serif;
+}
+h5{
+    color: gold;
+    font-family: sans-serif;
+}
+h6{
+    color: red;
+    font-family: sans-serif;
+}
+p{
+    font-family: fantasy;
+}
+
+ul{
+    list-style-type: square;
+}
+
+ol{
+    list-style-type: upper-roman;
+}
+#menu-bar a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+#menu-bar a:hover{
+
+    background-color: aqua;
+    color: #ffffff;
+}
